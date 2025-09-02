@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "33407A0B",
+    "item": "Item A",
+    "amount": 3
+  },
+  {
+    "uid": "5A82A5B2",
+    "item": "Item B",
+    "amount": 2
+  },
+  {
+    "uid": "BCED2C63",
+    "item": "Item C",
+    "amount": 4
+  },
+  {
+    "uid": "F313FC03",
+    "item": "Item D",
+    "amount": 5
+  }
+  
+]
